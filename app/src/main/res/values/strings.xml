@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OficialI</string>
+    <string name="convers_o_de_temperatura">Conversão de Temperatura</string>
+    <string name="desconto">Desconto</string>
+    <string name="de_bolso">De bolso</string>
+    <string name="qual_e_o_tipo_de_calculadora_que_deseja_usar">Qual e o tipo de Calculadora que deseja usar?</string>
+    <string name="entre_com_o_nome_da_calculadora">Entre com o nome da calculadora</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="limpar">Limpar</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="calcular">Calcular</string>
+    <string name="calculadoar_de_temperatura">Calculadoar de Temperatura</string>
+    <string name="faherenheit">Faherenheit</string>
+    <string name="c_lsius">Célsius</string>
+</resources>
